@@ -23,8 +23,8 @@
 3. **創建虛擬環境**
     ```Bash
     cd backend
-    poetry install  // 建立虛擬環境&安裝需要的套件
-    poetry shell    // 進入虛擬環境
+    poetry install  # 建立虛擬環境&安裝需要的套件
+    poetry shell    # 進入虛擬環境
     ```
 4. **執行app.py**
     ```Bash
