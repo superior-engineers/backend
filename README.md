@@ -20,4 +20,13 @@
     ```
     別忘了還要新增path到系統環境變數裡面!
 2. **clone**
-3. **poetry install**
+3. **創建虛擬環境**
+    ```Bash
+    cd backend
+    poetry install  // 建立虛擬環境&安裝需要的套件
+    poetry shell    // 進入虛擬環境
+    ```
+4. **執行app.py**
+    ```Bash
+    python app.py
+    ```
